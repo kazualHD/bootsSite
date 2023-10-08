@@ -1,0 +1,8 @@
+.login-signup-container {
+  display: flex; 
+  margin-left: auto; 
+}
+
+.login-signup-container button {
+  margin-right: 10px;
+}
